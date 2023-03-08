@@ -21,7 +21,23 @@
 <center>
 
 ### Education
+</center>
+
 - Belarusian National Technical University (2019-2020),
 Economy and Management of Research, Design and Production.
 - Lublin University of Technology (2020-2024)
 Faculty of technology Fundmentals (Technical Information Education)
+
+<center>
+
+#### Skills
+
+</center>
+
+- С++
+- HTMl / CSS
+- Git / GitHub
+- Figma
+- Wordpress
+- Adobe Photoshop and Premiere Pro
+- MS Office 
