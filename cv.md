@@ -48,7 +48,17 @@ Faculty of technology Fundmentals (Technical Information Education)
 - Adobe Photoshop and Premiere Pro
 - MS Office 
 
+
+---
 <center>
+
+# Languages
+</center>
+
+
+- Ruassian (Native)
+- Polish (Advanced)
+- English (Elementary)
 
 ---
 
