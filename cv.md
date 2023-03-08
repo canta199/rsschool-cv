@@ -1,6 +1,7 @@
 <center> 
 
 # Maksim Pryshchyk 
+---
 <mvasilevic00@gmail.com>
 
 *Engineer, teacher,programmer*
@@ -18,7 +19,10 @@
 
 
 </center> 
+
+---
 <center>
+
 
 # Education 
 </center>
@@ -29,6 +33,8 @@ Economy and Management of Research, Design and Production.
 Faculty of technology Fundmentals (Technical Information Education)
 
 <center>
+
+---
 
 # Skills 
 
@@ -43,6 +49,8 @@ Faculty of technology Fundmentals (Technical Information Education)
 - MS Office 
 
 <center>
+
+---
 
 # Social Profile
 
