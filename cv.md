@@ -1,16 +1,24 @@
+
 <center> 
 
 # Maksim Pryshchyk 
----
+
+
 <mvasilevic00@gmail.com>
+
 
 *Engineer, teacher,programmer*
 
+---
+
 </center>
+
 
 <center>
 
 # About me 
+
+</center> 
 
 *I am 21 years old, I was born in Belarus and currently live in Poland.*
 *In 2019 I gradueted from school in Borovlyany and entered BNTU at MSF (Faculty of Mechanical Engineering).*
@@ -18,13 +26,12 @@
 *In one of the study project, we touched on HTML/CSS and i really liked ot, so i want to delve into this direction.*
 
 
-</center> 
-
 ---
+
 <center>
 
-
 # Education 
+
 </center>
 
 - Belarusian National Technical University (2019-2020),
@@ -32,11 +39,14 @@ Economy and Management of Research, Design and Production.
 - Lublin University of Technology (2020-2024)
 Faculty of technology Fundmentals (Technical Information Education)
 
-<center>
 
 ---
+<center>
+
+
 
 # Skills 
+
 
 </center>
 
@@ -53,6 +63,8 @@ Faculty of technology Fundmentals (Technical Information Education)
 <center>
 
 # Code Examples
+
+
 </center>
 
 ```javascript
@@ -75,6 +87,8 @@ console.log(personOne.age);
 <center>
 
 # Languages
+
+
 </center>
 
 
@@ -83,6 +97,8 @@ console.log(personOne.age);
 - English (Elementary)
 
 ---
+
+<center>
 
 # Social Profile
 
