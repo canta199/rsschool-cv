@@ -41,3 +41,13 @@ Faculty of technology Fundmentals (Technical Information Education)
 - Wordpress
 - Adobe Photoshop and Premiere Pro
 - MS Office 
+
+<center>
+
+##### Social Profile
+
+</center>
+
+- Instagram - <https://www.instagram.com/canta199/>
+- Facebook - <https://www.facebook.com/profile.php?id=100013977496865>
+- Discord - Maksim Pryshchyk (@canta199)
