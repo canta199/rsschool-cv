@@ -52,6 +52,28 @@ Faculty of technology Fundmentals (Technical Information Education)
 ---
 <center>
 
+# Code Examples
+</center>
+
+```javascript
+
+const personOne = {
+  name: 'Maksim',
+  age:20
+}
+function increasePersoneAge (person) {
+  person.age += 1;
+  return person;
+}
+increasePersoneAge(personOne);
+console.log(personOne.age);
+
+```
+
+---
+
+<center>
+
 # Languages
 </center>
 
