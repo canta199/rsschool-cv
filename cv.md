@@ -7,18 +7,14 @@
 <mvasilevic00@gmail.com>
 
 
-*Engineer, teacher,programmer*
+*Engineer,teacher,programmer*
 
 ---
 
-</center>
 
-
-<center>
 
 # About me #
 
-</center> 
 
 *I am 21 years old, I was born in Belarus and currently live in Poland.*
 *In 2019 I gradueted from school in Borovlyany and entered BNTU at MSF (Faculty of Mechanical Engineering).*
@@ -28,11 +24,11 @@
 
 ---
 
-<center>
+
 
 # Education # 
 
-</center>
+
 
 - Belarusian National Technical University (2019-2020),
 Economy and Management of Research, Design and Production.
@@ -41,14 +37,14 @@ Faculty of technology Fundmentals (Technical Information Education)
 
 
 ---
-<center>
+
 
 
 
 # Skills #
 
 
-</center>
+
 
 - С++
 - HTMl / CSS
@@ -60,12 +56,12 @@ Faculty of technology Fundmentals (Technical Information Education)
 
 
 ---
-<center>
+
 
 # Code Examples #
 
 
-</center>
+
 
 ```javascript
 
@@ -84,12 +80,11 @@ console.log(personOne.age);
 
 ---
 
-<center>
 
 # Languages #
 
 
-</center>
+
 
 
 - Ruassian (Native)
@@ -98,13 +93,13 @@ console.log(personOne.age);
 
 ---
 
-<center>
+
 
 
 # Social Profile #
 
 
-</center>
+
 
 - Instagram - <https://www.instagram.com/canta199/>
 - Facebook - <https://www.facebook.com/profile.php?id=100013977496865>
