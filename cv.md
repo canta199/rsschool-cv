@@ -101,7 +101,7 @@ console.log(personOne.age);
 <center>
 
 
-# Social Profile
+#Social Profile
 
 
 </center>
