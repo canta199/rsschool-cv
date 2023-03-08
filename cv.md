@@ -1,6 +1,6 @@
 <center> 
 
-# Maksim Pryshchyk <br>
+# Maksim Pryshchyk # 
 <mvasilevic00@gmail.com>
 
 *Engineer, teacher,programmer*
@@ -20,7 +20,7 @@
 </center> 
 <center>
 
-### Education
+### Education ###
 </center>
 
 - Belarusian National Technical University (2019-2020),
@@ -30,7 +30,7 @@ Faculty of technology Fundmentals (Technical Information Education)
 
 <center>
 
-#### Skills
+#### Skills ####
 
 </center>
 
@@ -44,7 +44,7 @@ Faculty of technology Fundmentals (Technical Information Education)
 
 <center>
 
-##### Social Profile
+##### Social Profile #####
 
 </center>
 
