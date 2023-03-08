@@ -1,7 +1,7 @@
 
 <center> 
 
-# Maksim Pryshchyk 
+# Maksim Pryshchyk # 
 
 
 <mvasilevic00@gmail.com>
@@ -16,7 +16,7 @@
 
 <center>
 
-# About me 
+# About me #
 
 </center> 
 
@@ -30,7 +30,7 @@
 
 <center>
 
-# Education 
+# Education # 
 
 </center>
 
@@ -45,7 +45,7 @@ Faculty of technology Fundmentals (Technical Information Education)
 
 
 
-# Skills 
+# Skills #
 
 
 </center>
@@ -62,7 +62,7 @@ Faculty of technology Fundmentals (Technical Information Education)
 ---
 <center>
 
-# Code Examples
+# Code Examples #
 
 
 </center>
@@ -86,7 +86,7 @@ console.log(personOne.age);
 
 <center>
 
-# Languages
+# Languages #
 
 
 </center>
@@ -101,7 +101,7 @@ console.log(personOne.age);
 <center>
 
 
-#Social Profile
+# Social Profile #
 
 
 </center>
