@@ -21,6 +21,7 @@
 Go in for sports and pgotopraphy, learn new information and try it out in practice.
 
 ---
-
+### I DONT'T LIKE:
+**COFFEE** and **BACKEND** (*it seems to me that this is black magic* (but or now))
 
 
