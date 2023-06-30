@@ -1,11 +1,11 @@
-#Maksim Pryshchyk
+# Maksim Pryshchyk
 
 **Student** *of the* **Lublin University of Technology** & *Belarusian National Technical University*
 
 ---
 
 
-###I CAN USE:
+### I CAN USE:
 - HTML/CSS
 - JavaScript
 - MS Office
@@ -15,4 +15,12 @@
 - Wordpress
 - LabView
 - G-code
+---
+
+### I LIKE:
+Go in for sports and pgotopraphy, learn new information and try it out in practice.
+
+---
+
+
 
