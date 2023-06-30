@@ -18,7 +18,7 @@
 ---
 
 ### I LIKE:
-Go in for sports and pgotopraphy, learn new information and try it out in practice.
+Go in for sports and photopraphy, learn new information and try it out in practice.
 
 ---
 ### I DONT'T LIKE:
