@@ -24,4 +24,18 @@ Go in for sports and pgotopraphy, learn new information and try it out in practi
 ### I DONT'T LIKE:
 **COFFEE** and **BACKEND** (*it seems to me that this is black magic* (but or now))
 
+---
+### I SPEAK:
+- Russian (native)
+- Polish (C1):
+    - **writing:** *excellent*
+    - **reading:** *marvelous*
+    - **listing:** *great*
+    - **speaking:** *not bad*
+
+- English (A2):
+    - **writing:** *average*
+    - **reading:** *not bad*
+    - **listing:** *weak*
+    - **speaking:** *weak*
 
