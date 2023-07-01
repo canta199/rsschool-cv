@@ -74,18 +74,20 @@
     top: 0;
     bottom: 0;
 }
-.contact_me{
+.contact_list li{
+    list-style: none;
     display: flex;
-    justify-content: center;
+    justify-content: left;
+    align-items: center;
     align-content: center;
-    
+}
+.contact_list p{
+    margin-left: 15px;
+    font-size: 20px;
 }
 
 .footer_nav{
     padding-top: 15px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
 }
 
 .footer_nav-list{
@@ -107,7 +109,7 @@ opacity: 0.7;
 .footer_item {
     width: 40px;
     height: 40px;
-    margin-right: 25px;
+    margin: 25px;
 }
 .footer_nav-list :nth-last-child(1):hover{
     animation:animation 1s;
